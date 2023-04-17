@@ -1,0 +1,5 @@
+sample\services\impl\MyServiceImpl.class
+sample\entity\Log.class
+sample\MyViewModel.class
+sample\services\impl\LogDao.class
+sample\services\MyService.class
